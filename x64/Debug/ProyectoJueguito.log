@@ -1,0 +1,19 @@
+﻿  ProyectoJueguito.cpp
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(36,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,13): warning C4101: 'j2': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,29): warning C4101: 'j6': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,25): warning C4101: 'j5': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(44,9): warning C4101: 'puntuajefinalpc': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,9): warning C4101: 'j1': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,45): warning C4101: 'j10': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(43,9): warning C4101: 'puntuajefinaljg': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,37): warning C4101: 'j8': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,41): warning C4101: 'j9': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,33): warning C4101: 'j7': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,17): warning C4101: 'j3': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(42,21): warning C4101: 'j4': variable local sin referencia
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(62): warning C4700: se utilizó la variable local 'dado1' sin inicializar
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(63): warning C4700: se utilizó la variable local 'dado2' sin inicializar
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\ProyectoJueguito.cpp(64): warning C4700: se utilizó la variable local 'dado3' sin inicializar
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoJueguito.vcxproj -> C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\x64\Debug\ProyectoJueguito.exe

@@ -1,0 +1,2 @@
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\x64\Debug\ProyectoJueguito.vcxproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\UPC\UPC-Introducción a los Algoritmos\ProyectoJueguito\ProyectoJueguito\x64\Debug\ProyectoJueguito.vcxproj.SuggestedBindingRedirects.cache
