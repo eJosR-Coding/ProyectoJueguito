@@ -9,6 +9,7 @@ int main()
     //Variables
     int dado;
     //condicional
+    cout << "hola";
     //Loop
 
     return 0;
